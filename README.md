@@ -1,1 +1,1 @@
-# RestaruntManagementSystem_UML
+# UML-Restaurant-Management-System
